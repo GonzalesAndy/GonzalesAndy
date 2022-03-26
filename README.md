@@ -53,9 +53,6 @@ Hi I'm Andy Gonzales, french student in IUT informatique in Aix-en-Provence. I a
 <br />
 <br />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalesAndy&layout=compact&theme=panda" alt="GonzalesAndy" />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzalesAndy&show_icons=true&theme=panda" />
-</a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GonzalesAndy&show_icons=true&theme=onedark " alt="GonzalesAndy" />
 
 <code><img src=https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg></code>
