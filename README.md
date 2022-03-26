@@ -15,7 +15,7 @@ Hi I'm Andy Gonzales, french student in IUT informatique in Aix-en-Provence. I a
 <br />
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/GonzalesAndy/gif.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/GonzalesAndy/GonzalesAndy/blob/main/gif.gif?raw=true" width="500" height="320" />
   
 - 💬 Feel free to ask me anything, i love to meet new people
 - I'm a Big Anime/Manga enjoyer
