@@ -12,7 +12,6 @@
 
 Hi I'm Andy Gonzales, french student in IUT informatique in Aix-en-Provence. I am passionate about artificial intelligence and video games. I spend all my free time to let my creativity run free, either through digital art (Drawing / 3D model) or through music. I love web development and I practice it during my free time but I don't want to make it my job. I would really like to become an artificial intelligence engineer in the near future.
 
-<br />
 
 
   <img align="right" alt="GIF" src="https://github.com/GonzalesAndy/GonzalesAndy/blob/main/gif.gif?raw=true" width="500" height="320" />
@@ -49,7 +48,6 @@ Hi I'm Andy Gonzales, french student in IUT informatique in Aix-en-Provence. I a
 
 
 <br />
-📈 my github stats
 <br />
 <br />
 
