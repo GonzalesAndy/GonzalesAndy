@@ -10,7 +10,7 @@
 
 <br /><br />
 
-Hi I'm Andy Gonzales, french student in IUT informatique in Aix-en-Provence. I am passionate about artificial intelligence and video games. I spend all my free time to let my creativity run free, either through digital art (Drawing / 3D model) or through music. I love web development and I practice it during my free time but I don't want to make it my job. I would really like to become an artificial intelligence engineer in the near future.
+Hi I'm Andy Gonzales, french student in a computer science IUT in Aix-en-Provence. I am passionate about artificial intelligence and video games. I spend all my free time to let my creativity run free, either through digital art (Drawing / 3D modeling) or through music. I love web development and I practice it during my free time but I don't want to make it my job. I would really like to become an artificial intelligence engineer in the near future.
 
 
 
