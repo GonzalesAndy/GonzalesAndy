@@ -3,10 +3,6 @@
 <a href="https://www.instagram.com/andy.xolt/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/andy-gonzales-b2a410230//">
-  <img align="left" alt="Andy Gonzales's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 <br /><br />
 
